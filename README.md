@@ -67,7 +67,7 @@ The table below ranks major SaaS and hosted content aggregation platforms sorted
 
 The table below features the most popular and actively maintained open-source web aggregators, scrapers, bookmark managers, and offline archivers, **sorted strictly by GitHub stargazers count (descending)**. Every repository badge links directly to its live stargazers page.
 
-| Repository | GitHub Stars Badge | Primary Language / Stack | Core Architecture & Use Case |
+| Repository | GitHub_Stars_Badge | Primary Language / Stack | Core Architecture & Use Case |
 | :--- | :---: | :---: | :--- |
 | **[Huginn](https://github.com/huginn/huginn)** | <a href="https://github.com/huginn/huginn/stargazers"><img src="https://img.shields.io/github/stars/huginn/huginn?style=social&color=white" alt="Stars"/></a> | Ruby / Rails | Self-hosted automated agent system that watches websites, monitors APIs, scrapes content, and emits custom RSS feeds. |
 | **[RSSHub](https://github.com/DIYgod/RSSHub)** | <a href="https://github.com/DIYgod/RSSHub/stargazers"><img src="https://img.shields.io/github/stars/DIYgod/RSSHub?style=social&color=white" alt="Stars"/></a> | TypeScript / Node.js | Extensible RSS feed generator that crafts standard RSS/Atom feeds from social networks, newsletters, and arbitrary HTML pages. |
